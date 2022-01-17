@@ -27,7 +27,7 @@
     "@actions/core": "^1.5.0",
     "@actions/exec": "^1.1.0",
     "@actions/io": "^1.1.1",
-    "fs": "0.0.1-security"
+    "fs": "0.0.2"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
